@@ -1,0 +1,1 @@
+This repository demonstrates a type mismatch error in Hack when dealing with optional integers. The `foo` function is defined to accept an integer, but the caller might pass an optional integer, leading to a type error.  The solution shows how to handle optional ints correctly.
